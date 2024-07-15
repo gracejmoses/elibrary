@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+header {
+    background-color: burlywood;
+}
+
+footer {
+    background-color: burlywood;
+}
